@@ -1,3 +1,4 @@
    ---
-   layout: home
+   layout: post
+   title: "Mon titre"
    ---
